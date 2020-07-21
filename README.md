@@ -1,6 +1,17 @@
 # chinese_learning
 Command line tool to help save time learning Chinese vocabulary
 
+# About
+
+
+# Increased efficiency 
+![]()
+
+# Screenshots
+
+
+
+
 # notes
 - Require "new_character_archive.txt" file with comma space list of characters to learn. 
 - Mistakes can be corrected by opening "character_learning.txt" file
