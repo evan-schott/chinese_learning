@@ -15,7 +15,7 @@ This reduces friction, as it is often so frustrating having to click so many but
 ![](https://github.com/evan-schott/chinese_learning/blob/master/interface.png)
 ![](https://github.com/evan-schott/chinese_learning/blob/master/character_cluster.png)
 
-The interface is nothing fancy, but promotes extreme speed of creation, and self testing. I found that testing myself was most effective when the words were layed out in a random order. No button clicking, just reading down the line. For those who prefer seeing one at a time, that option is also included.
+The interface is nothing fancy, but promotes extreme speed of creation, and self testing. I found that testing myself was most effective when the words were laid out in a random order. No button clicking, just reading down the line. For those who prefer seeing one at a time, that option is also included.
 
 
 
